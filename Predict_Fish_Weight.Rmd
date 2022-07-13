@@ -132,4 +132,4 @@ From the graph the best two-parameter regressor model is based on Length1 & Leng
 
 ## Final Summary Statements
 
-In conclusion, the best models for all 3 fish is using all 4 variables. The best two regressor model variables for Perch is Length3
+In conclusion, the best models for all 3 fish is using all 4 variables. The best two regressor model variables for Perch is Length3 & Height. The best two regressor model variables for Pike is Length1 & Length3. The best two regressor model variables for Roach is Length1 & Length3. 
